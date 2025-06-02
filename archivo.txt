@@ -1,2 +1,18 @@
 Primera línea escrita
 Segunda línea escrita
+Línea en develop
+
+Cambio 1 de user3
+Cambio 1 de user2
+Cambio 1 de user1
+Cambio 2 de user3
+Cambio 2 de user2
+Cambio 2 de user1
+Cambio 3 de user3
+Cambio 3 de user2
+Cambio 3 de user1
+Cambio 4 de user2
+Cambio 4 de user1
+Cambio 5 de user2
+
+Línea en release
